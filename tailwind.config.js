@@ -6,6 +6,10 @@ tailwind.config = {
         white: "#FFFFFF",
         black: "#000",
       },
+      screens: {
+       xs:"300px",
+       s:"200px"
+      },
     },
   },
 };
